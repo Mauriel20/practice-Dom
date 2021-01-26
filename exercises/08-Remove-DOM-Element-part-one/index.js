@@ -1,2 +1,3 @@
 //your code here
-let element = document.querySelector("#secondElement"); element.parentNode.removeChild(element);
+let element = document.querySelector("#secondElement"); 
+element.parentNode.removeChild(element);
